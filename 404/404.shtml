@@ -64,7 +64,7 @@ a {
 
 <body>
 <div class="container text-center" id="error">
-<img src="Images/Shrug.gif" alt="shrug">
+<img src="http://colbywon.com/Images/Shrug.gif" alt="shrug">
  <div class="row">
     <div class="col-md-12">
       <div class="main-icon text-warning"><span class="uxicon uxicon-alert"></span></div>
