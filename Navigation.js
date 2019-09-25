@@ -1,4 +1,5 @@
-document.write("  <ul>
+document.write("
+<ul>
     <li><a href="home.html">Home</a></li>
     <li class="dropdown">
       <a href="javascript:void(0)" class="dropbtn">Medium</a>
@@ -19,4 +20,5 @@ document.write("  <ul>
          <a href="Sanic.html">Sanic Jump</a>
       </div>
     </li>
-  </ul>");
+  </ul>
+  ");
