@@ -4,7 +4,7 @@ document.write("
     <li class="dropdown">
       <a href="javascript:void(0)" class="dropbtn">Medium</a>
       <div class="dropdown-content">
-        <a href="Medium Home.html">Homepage</a>
+        <a href="Medium_Home.html">Homepage</a>
         <a href="Music.html">Music</a>
         <a href="">Concepts</a>
         <a href="">Credits</a>
@@ -14,8 +14,8 @@ document.write("
       <a href="javascript:void(0)" class="dropbtn">Games</a>
       <div class="dropdown-content">
         <a href="Crab.io.html">Crab.io</a>
-        <a href="Battle%20of%20Endor.html">Battle of Endor</a>
-        <a href="Fat%20cat.html">Fat Cat Flies</a>
+        <a href="Battle_of_Endor.html">Battle of Endor</a>
+        <a href="Fat_cat.html">Fat Cat Flies</a>
         <a href="Rasputin.html">Rar Ra Raspu Run</a>
          <a href="Sanic.html">Sanic Jump</a>
       </div>
