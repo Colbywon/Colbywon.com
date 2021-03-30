@@ -1,8 +1,5 @@
 body{
-font-family: \assets\quantum.otf, sans-serif;
-background-image: url("../images/juice.jpg");
-background-repeat: no-repeat;
-background-size: contain;
+font-family: url("../assets/quantum.otf"), sans-serif;
 color: white;
 }
 h1{
