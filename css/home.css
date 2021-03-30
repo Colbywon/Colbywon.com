@@ -1,5 +1,5 @@
 body{
-font-family: url("../assets/quantum.otf"), sans-serif;
+font-family: src("../assets/quantum.otf"), sans-serif;
 color: white;
 }
 h1{
